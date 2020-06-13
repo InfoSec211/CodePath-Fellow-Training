@@ -1,2 +1,2 @@
 # CodePath-Fellow-Training
-<img src="https://i.imgur.com/ebnyZFO.gifv" width="800">
+<img src="https://imgur.com/1rHljyA" width="800">
