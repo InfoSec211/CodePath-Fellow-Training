@@ -1,2 +1,3 @@
-# CodePath-Fellow-Training
-<img src="https://imgur.com/1rHljyA" width="800">
+# codepath_homework
+
+See branches for assignments.
